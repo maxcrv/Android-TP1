@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="compute_text" />
+    <string name="nb1" />
+    <string name="nb2" />
+    <string name="compute" />
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="text_hello">Bonjour les estiens !</string>
+    <string name="swipe">Swipe</string>
+    <string name="image_description">Illustration de profil</string>
+    <string name="nombre_1">Nombre 1</string>
+    <string name="nombre_2">Nombre 2</string>
+    <string name="calculer">Calculer</string>
+</resources>
+
